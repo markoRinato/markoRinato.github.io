@@ -3002,7 +3002,8 @@ input, select, textarea {
 
 		.spotlights > section > .image {
 			background-position: center center;
-			background-size: cover;
+			background-repeat: no-repeat;
+			background-size: contain;
 			border-radius: 0;
 			display: block;
 			position: relative;
@@ -3031,7 +3032,7 @@ input, select, textarea {
 			}
 
 		.spotlights > section > .content {
-			padding: 4em 5em 2em 5em ;
+			padding: 2em 5em 2em 5em ;
 			display: -moz-flex;
 			display: -webkit-flex;
 			display: -ms-flex;
