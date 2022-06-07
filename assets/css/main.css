@@ -120,7 +120,7 @@ input, select, textarea {
 		@media screen and (max-width: 1680px) {
 
 			body, input, select, textarea {
-				font-size: 13pt;
+				font-size: 11pt;
 				font-weight: bold;
 			}
 
@@ -3224,6 +3224,7 @@ input, select, textarea {
 
 				.wrapper > .inner {
 					padding: 4em 4em 2em 4em ;
+					
 				}
 
 			}
